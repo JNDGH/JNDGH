@@ -1,4 +1,6 @@
-### Hi there 👋
+### 介绍
+我是郑贵南，广东工业大学21级计科3班学生
+
 
 <!--
 **JNDGH/JNDGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
