@@ -16,7 +16,7 @@ public class ArithmeticUtilTest {
 
     @Test
     public void checkExercise() {
-        String path = "E:\\大三上\\软件工程\\3121005237\\3121005237\\ArithmeticOperations\\target\\test-classes\\";
+        String path = "E:\\大三\\软件工程\\3121005237\\3121005237\\ArithmeticOperations\\target\\test-classes\\";
         ArithmeticUtil.checkExercise(path+"e.txt",path+"a.txt");
     }
 }
